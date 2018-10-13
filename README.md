@@ -5,11 +5,12 @@ my code wars  solutions in Ruby
 ## 7kyu Binary Addition
 
 A function that adds two numbers together and returns their sum in binary.
- 
-``` 
-**binary number is a number expressed in the base-2 numeral system or binary numeral system, which uses
-only two symbols: typically 0 (zero) and 1 (one)**.
- 
+
+A binary number is a number expressed in the base-2 numeral system or binary numeral system, which uses
+only two symbols: typically 0 (zero) and 1 (one).
+
+```
+
  *Example:*
 
            | 16  | 8  | 4  | 2  | 1  |
@@ -20,8 +21,11 @@ only two symbols: typically 0 (zero) and 1 (one)**.
 
 ```
 ### Logic:
+
  Divide number by 2 while ignoring the remainder.
  If the number is even we add a zero, if it's odd we give it a one:
+
+ The binary form of 13:
 
  ```
 
@@ -29,7 +33,7 @@ only two symbols: typically 0 (zero) and 1 (one)**.
   ------------------   
      | 1| 1 | 0 |1  
 
-     **giving us**: *1101*
+Returns: 1101
 
  ```
 
