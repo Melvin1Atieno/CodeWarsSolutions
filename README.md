@@ -7,3 +7,5 @@ my code wars  solutions in Ruby
 
 #### 3. [longest](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/longest)
 
+#### 4. [camelCase](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/camelcase)
+
