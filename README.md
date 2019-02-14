@@ -1,9 +1,18 @@
-# CodeWarsSolutions
-my code wars  solutions in Ruby
+# Camel Case
 
-#### 1. [Binary Addition](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/BinaryAddition)
+A program that converts dash/underscore deliminated words into camel casing.
 
-#### 2. [ValidBraces](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/ValidBraces)
+## Examples
 
-#### 3. [longest](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/longest)
+```
+to_camel_case("the-stealth-warrior") # returns "theStealthWarrior"
 
+to_camel_case("The_Stealth_Warrior") # returns "TheStealthWarrior"
+
+```
+
+## Logic
+
+Convert items into an array of strings
+Change the first letter of the string items to uppercase excluding first item.
+Join items back into an array.
