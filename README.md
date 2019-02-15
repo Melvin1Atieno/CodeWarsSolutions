@@ -9,3 +9,4 @@ my code wars  solutions in Ruby
 
 #### 4. [camelCase](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/camelcase)
 
+#### 5. [multiples_of_3_or_5](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/multiples-of-3-or-5)
