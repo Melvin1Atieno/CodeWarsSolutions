@@ -1,11 +1,14 @@
 # CodeWarsSolutions
-my code wars  solutions in Ruby
 
-#### 1. [Binary Addition](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/BinaryAddition)
+A program that returns the sum of all multiples of 3 or 5 below the number passed in.
 
-#### 2. [ValidBraces](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/ValidBraces)
+example
+```
+solution(10) => 23
+```
 
-#### 3. [longest](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/longest)
+## Logic.
 
-#### 4. [camelCase](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/camelcase)
-
+- Get the numbers between 1 and the number given
+- Loop through to find if it is either a multiple of 3 or 5
+- Add number to total if is multiple
