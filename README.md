@@ -12,3 +12,5 @@ my code wars  solutions in Ruby
 #### 5. [multiples_of_3_or_5](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/multiples-of-3-or-5)
 
 #### 6. [Narcissistic Number](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/narcissistic-number)
+
+#### 7. [Exes and Ohs](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/exes-and-ohs)
