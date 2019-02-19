@@ -1,14 +1,27 @@
 # CodeWarsSolutions
-my code wars  solutions in Ruby
 
-#### 1. [Binary Addition](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/BinaryAddition)
+## Exes and Ohs
 
-#### 2. [ValidBraces](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/ValidBraces)
+A program that checks to see if a string has the same amount of 'x's and 'o's.
 
-#### 3. [longest](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/longest)
+- The program returns `true` if an equal number exists and `false` if not.
+- The program  is case insensitive
+- The program returns `true` when no 'x's and 'o's are present in the entered string
 
-#### 4. [camelCase](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/camelcase)
+example
 
-#### 5. [multiples_of_3_or_5](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/multiples-of-3-or-5)
+```example
+XO("ooxx") => true
+XO("xooxx") => false
+XO("ooxXm") => true
+XO("zpzpzpp") => true // when no 'x' and 'o' is present should return true
+XO("zzoo") => false
 
-#### 6. [Narcissistic Number](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/narcissistic-number)
+```
+
+## Logic
+
+1. Change every character in string to lowercase.
+2. Check the number of 'x's.
+3. Check the number of 'o's
+4. Compare if equal
