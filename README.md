@@ -14,3 +14,5 @@ my code wars  solutions in Ruby
 #### 6. [Narcissistic Number](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/narcissistic-number)
 
 #### 7. [Exes and Ohs](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/exes-and-ohs)
+
+#### 8. [Shortest word](https://github.com/Melvin1Atieno/CodeWarsSolutions/blob/shortest-word/shortest-word.rb)
