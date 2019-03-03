@@ -1,18 +1,26 @@
-# CodeWarsSolutions
-my code wars  solutions in Ruby
+# Pick and Peaks
 
-#### 1. [Binary Addition](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/BinaryAddition)
+A function that returns the positions and values of the peaks of a numeric array.
 
-#### 2. [ValidBraces](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/ValidBraces)
+The output will be returned as an object with two properties: pos and peaks. Both these properties will be an array. `{pos: [], peaks: []}`
 
-#### 3. [longest](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/longest)
+The first and last elements of the array will not be considered as peaks (in the context of a mathematical function, we don't know what is after and before and therefore, we don't know if it is a peak or not).
 
-#### 4. [camelCase](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/camelcase)
+In cases of plateau-peaks, the position and value of the beginning of the plateau will be returned.
 
-#### 5. [multiples_of_3_or_5](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/multiples-of-3-or-5)
 
-#### 6. [Narcissistic Number](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/narcissistic-number)
+example
 
-#### 7. [Exes and Ohs](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/exes-and-ohs)
+```
 
-#### 8. [Shortest word](https://github.com/Melvin1Atieno/CodeWarsSolutions/blob/shortest-word/shortest-word.rb)
+pickPeaks([0, 1, 2, 5, 1, 0]) => {pos: [3], peaks: [5]}
+
+pickPeaks([3, 2, 3, 6, 4, 1, 2, 3, 2, 1, 2, 3]) => {pos: [3, 7], peaks: [6, 3]}
+
+
+**plateau-peak**
+
+pickPeaks([1,2,2,2,1]) => {pos: [1], peaks: [2]}
+
+
+```
