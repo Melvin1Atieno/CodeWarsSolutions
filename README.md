@@ -1,5 +1,7 @@
 # CodeWarsSolutions
-my code wars  solutions in Ruby
+my code wars  solutions in Ruby.
+
+Each solution is on it's own branch, more information on each solution is contained on it's readme file.
 
 #### 1. [Binary Addition](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/BinaryAddition)
 
