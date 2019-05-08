@@ -16,3 +16,7 @@ my code wars  solutions in Ruby
 #### 7. [Exes and Ohs](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/exes-and-ohs)
 
 #### 8. [Shortest word](https://github.com/Melvin1Atieno/CodeWarsSolutions/blob/shortest-word/shortest-word.rb)
+
+#### 9. [Peaks](https://github.com/Melvin1Atieno/CodeWarsSolutions/blob/pick-peaks/peaks.rb)
+
+#### 10. [The Parity Outlier](https://github.com/Melvin1Atieno/CodeWarsSolutions/blob/find-the-parity-outlier/parity-outlier.rb)
