@@ -17,4 +17,12 @@ The function returns an array where an uppercase letter is a person standing up,
 
 ## Example
 
+```ruby
+
 wave("hello") => ["Hello", "hEllo", "heLlo", "helLo", "hellO"]
+
+wave("two words") => ["Two words", "tWo words", "twO words", "two Words", "two wOrds", "two woRds", "two worDs", "two wordS"]
+
+wave(" gap ") => [" Gap ", " gAp ", " gaP "]
+
+```
