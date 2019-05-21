@@ -22,3 +22,5 @@ Each solution is on it's own branch, more information on each solution is contai
 #### 9. [Peaks](https://github.com/Melvin1Atieno/CodeWarsSolutions/blob/pick-peaks/peaks.rb)
 
 #### 10. [The Parity Outlier](https://github.com/Melvin1Atieno/CodeWarsSolutions/blob/find-the-parity-outlier/parity-outlier.rb)
+
+#### 11. [Mexican Wave](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/mexican_wave)
