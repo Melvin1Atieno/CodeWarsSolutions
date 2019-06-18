@@ -17,10 +17,10 @@ Each solution is on it's own branch, more information on each solution is contai
 
 #### 7. [Exes and Ohs](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/exes-and-ohs)
 
-#### 8. [Shortest word](https://github.com/Melvin1Atieno/CodeWarsSolutions/blob/shortest-word/shortest-word.rb)
+#### 8. [Shortest word](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/shortest-word)
 
-#### 9. [Peaks](https://github.com/Melvin1Atieno/CodeWarsSolutions/blob/pick-peaks/peaks.rb)
+#### 9. [Peaks](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/pick-peaks)
 
-#### 10. [The Parity Outlier](https://github.com/Melvin1Atieno/CodeWarsSolutions/blob/find-the-parity-outlier/parity-outlier.rb)
+#### 10. [The Parity Outlier](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/find-the-parity-outlier)
 
 #### 11. [Mexican Wave](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/mexican_wave)
