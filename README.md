@@ -24,3 +24,5 @@ Each solution is on it's own branch, more information on each solution is contai
 #### 10. [The Parity Outlier](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/find-the-parity-outlier)
 
 #### 11. [Mexican Wave](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/mexican_wave)
+
+#### 12. [Count characters](https://github.com/Melvin1Atieno/CodeWarsSolutions/tree/count-characters)
